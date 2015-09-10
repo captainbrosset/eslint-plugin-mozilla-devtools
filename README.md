@@ -45,3 +45,5 @@ Then configure the rules you want to use under the rules section.
 
 * components-imports
 * onlylazygetters
+* import-headjs-globals
+* mark-test-function-used
