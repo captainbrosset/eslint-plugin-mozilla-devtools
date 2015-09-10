@@ -1,6 +1,7 @@
 # eslint-plugin-mozilla-devtools
 
-A collection of rules that help the Mozilla Developer Tools team to enforce coding standards.
+A collection of rules that help the Mozilla Developer Tools team to enforce
+coding standards.
 
 ## Installation
 
@@ -16,11 +17,13 @@ Next, install `eslint-plugin-mozilla-devtools`:
 $ npm install eslint-plugin-mozilla-devtools --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-mozilla-devtools` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must
+also install `eslint-plugin-mozilla-devtools` globally.
 
 ## Usage
 
-Add `mozilla-devtools` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `mozilla-devtools` to the plugins section of your `.eslintrc` configuration
+file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
