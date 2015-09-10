@@ -1,0 +1,31 @@
+{
+  "name": "eslint-plugin-mozilla-devtools",
+  "version": "0.0.1",
+  "description": "A collection of rules that help the Mozilla Developer Tools team to enforce coding standards.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "mozilla",
+    "firefox"
+  ],
+  "bugs": {
+    "url": "https://github.com/mozilla/eslint-plugin-mozilla-devtools/issues"
+  },
+  "homepage": "https://github.com/mozilla/eslint-plugin-mozilla-devtools",
+  "author": "Mike Ratcliffe",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MPL-2.0"
+}
