@@ -15,9 +15,6 @@
   "homepage": "https://github.com/mozilla/eslint-plugin-mozilla-devtools",
   "author": "Mike Ratcliffe",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "dependencies": {
     "requireindex": "~1.1.0"
   },
